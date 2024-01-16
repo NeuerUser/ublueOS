@@ -1,5 +1,5 @@
 ublue_variants:
-  - label: neueruser/kinoite_mb
+  - label: neueruser/kinoite2_mb
     ks: /kickstart/ublue-os.ks
     flavors:
-      - label: kinoite_mb
+      - label: kinoite2_mb
